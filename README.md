@@ -10,7 +10,4 @@
 
 ### Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sergivb01&count_private=true&show_icons=true&theme=dracula&bg_color=-45deg,282A36,3D3344" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergivb01&theme=dracula&bg_color=-45deg,282A36,3D3344&layout=compact&langs_count=6" />
-</div>
+[![GitHub metrics](https://metrics.lecoq.io/sergivb01?languages=1&pagespeed=1&isocalendar=1&followup=1)](https://github.com/lowlighter/metrics)
