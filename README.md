@@ -1,6 +1,6 @@
 ### Hi, I'm Sergi 👋
 
-<img src="https://metrics.lecoq.io/sergivb01?languages=1&pagespeed=1&isocalendar=1&followup=1" alt="Stats" align="right">
+<img src="https://metrics.lecoq.io/sergivb01?base.header=0&languages=1&isocalendar=1&followup=1" alt="Stats" align="right">
 
 ○ 😄 Pronouns: He/him/his.  
 ○ 🔭 I’m currently working on [@vortexservices](https://github.com/vortexservices).  
