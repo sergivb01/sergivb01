@@ -9,4 +9,4 @@
 * 💬 Ask me about [overengineering](https://en.wikipedia.org/wiki/Overengineering).  
 * 📫 How to reach me: [hi@sergivos.dev](mailto://hi@sergivos.dev).  
 * ⚡ Fun fact: i have many unfinished cool projects.  
-* 🤔 I’m looking for help with a [VelocityPowered](https://velocitypowered.com/) Authentication and AntiBot plugin.
+* 🤔 I’m looking for help with a [VelocityPowered](https://velocitypowered.com/) Premium/Cracked Authentication system.
