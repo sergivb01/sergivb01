@@ -21,5 +21,6 @@ I'm a 3rd year CS student, devops fan, go and Java developer. Back in the day, I
 
 ### 📫 Contact
   - [Email](mailto:contact@sergivos.dev)
+  - [Twitter](https://twitter.com/sergivb01/)
   - [Website](https://sergivos.dev)
-  - [LinkedIn](https://www.linkedin.com/in/sergivb01/)
+  - [LinkedIn](https://linkedin.com/in/sergivb01/)
