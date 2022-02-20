@@ -20,7 +20,7 @@ I'm a 3rd year CS student, devops fan, go and Java developer. Back in the day, I
   - [Toastr](https://github.com/sergivb01/Messaging): Authentication plugin written for VelocityPowered.
 
 ### 📫 Contact
-  - [Email](mailto:contact@sergivos.dev)
+  - [Email](mailto:contact@sergivos.dev) (_`contact@sergivos.dev`_)
   - [Twitter](https://twitter.com/sergivb01/)
   - [Website](https://sergivos.dev)
   - [LinkedIn](https://linkedin.com/in/sergivb01/)
