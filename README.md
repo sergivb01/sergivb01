@@ -5,7 +5,6 @@ I'm a 3rd year CS student, devops fan, go and Java developer. Back in the day, I
 <img src="https://github-readme-stats.vercel.app/api?username=sergivb01&show_icons=true&theme=prussian" alt="Stats" align="right">
 
 ### 📖 Currently learning
-  - [Go](https://golang.org)
   - [Rust](https://www.rust-lang.org)
   - [Clickhouse](https://clickhouse.com)
   - [Kubernetes](https://k8s.io)
