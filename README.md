@@ -1,8 +1,8 @@
 ## 👋 Hi there!
-<img src="https://github-readme-stats.vercel.app/api?username=sergivb01&show_icons=true&theme=prussian" alt="Stats" align="right">
 
 I'm a 3rd year CS student, devops fan, go and Java developer. Back in the day, I wrote a _lot_ of Minecraft related stuff. I consider myself a _professional overengineer_.
 
+<img src="https://github-readme-stats.vercel.app/api?username=sergivb01&show_icons=true&theme=prussian" alt="Stats" align="right">
 
 ### 📖 Currently learning
   - [Go](https://golang.org)
