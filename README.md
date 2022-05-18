@@ -1,4 +1,6 @@
-## 👋 Hi there!
+![Header](./github-header-image.png)
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sergivb01&label=Profile%20views&color=0e75b6&style=flat" alt="machine-maker" /> </p>
 
 I'm a 3rd year CS student, devops fan, Go and Java developer. Back in the day, I wrote a _lot_ of Minecraft related stuff. I consider myself a _professional overengineer_.
