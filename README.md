@@ -20,6 +20,10 @@ I'm a 3rd year CS student, devops fan, Go and Java developer. Back in the day, I
   - [Messaging](https://github.com/sergivb01/Messaging): Multiplatform messaging system
   - [Toastr](https://github.com/sergivb01/Messaging): Authentication plugin written for VelocityPowered.
 
+### 📆 Activity
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ### 📫 Contact
   - [Email](mailto:contact@sergivos.dev) (_`contact@sergivos.dev`_)
   - [Twitter](https://twitter.com/sergivb01/)
