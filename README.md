@@ -26,12 +26,12 @@ I'm a 3rd year CS student, devops fan, Go and Java developer. Back in the day, I
 <!--START_SECTION:waka-->
 
 ```text
-Go               6 hrs 54 mins   ███████████████████▒░░░░░   76.91 %
-Markdown         1 hr 31 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.97 %
-YAML             17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 %
-Shell Script     11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
-Text             1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
-Bash             1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+Go               6 hrs 6 mins    █████████████████████▓░░░   86.63 %
+Markdown         24 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.89 %
+YAML             17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 %
+Shell Script     11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 %
+Text             1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+Bash             1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
 ```
 
 <!--END_SECTION:waka-->
