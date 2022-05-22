@@ -26,7 +26,7 @@ I'm a 3rd year CS student, devops fan, Go and Java developer. Back in the day, I
 <!--START_SECTION:waka-->
 
 ```text
-From: 13 May 2022 - To: 20 May 2022
+From: 14 May 2022 - To: 21 May 2022
 
 Total Time: 3 hrs 10 mins
 
