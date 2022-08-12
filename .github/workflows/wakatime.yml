@@ -4,14 +4,14 @@ on:
   workflow_dispatch:
   schedule:
     # Runs at every 02:27 UTC
-    - cron: "27 2 * * *"
+    - cron: "23 04 * * *"
 
 jobs:
   update-readme:
     name: Update this repo's README
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master
+      - uses: athul/waka-readme@workshop
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
