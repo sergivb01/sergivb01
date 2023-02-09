@@ -26,12 +26,14 @@ I'm a 4th year Computer Science student, DevOps/SRE fan, Go and Java developer. 
 <!--START_SECTION:waka-->
 
 ```text
-From: 30 January 2023 - To: 06 February 2023
+From: 31 January 2023 - To: 07 February 2023
 
-Total Time: 10 hrs 40 mins
+Total Time: 7 hrs 49 mins
 
-YAML             4 hrs 6 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   32.86 %
-Other            1 hr 49 mins    ⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.64 %
+YAML            3 hrs 15 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   38.78 %
+Config          1 hr 57 mins    ⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   23.18 %
+Markdown        1 hr 9 mins     ⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.73 %
+Other           35 mins         ⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.98 %
 ```
 
 <!--END_SECTION:waka-->
