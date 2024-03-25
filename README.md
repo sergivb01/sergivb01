@@ -26,7 +26,7 @@ I'm a 4th year Computer Science student, DevOps/SRE fan, Go and Java developer. 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 March 2024 - To: 22 March 2024
+From: 16 March 2024 - To: 23 March 2024
 
 Total Time: 15 hrs 35 mins
 
