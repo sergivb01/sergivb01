@@ -22,23 +22,6 @@ I'm a Systems Engineer working @Wikiloc and a DevOps/SRE fan, Go and Java develo
   - [Messaging](https://github.com/sergivb01/Messaging): Multiplatform messaging system
   - [Toastr](https://github.com/sergivb01/Messaging): Authentication plugin written for VelocityPowered.
 
-### 📆 Activity
-<!--START_SECTION:waka-->
-
-```txt
-From: 11 May 2024 - To: 18 May 2024
-
-Total Time: 8 hrs 24 mins
-
-INI               2 hrs 28 mins   ⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   27.11 %
-Java              1 hr 52 mins    ⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   20.60 %
-Jinja2            1 hr 15 mins    ⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.75 %
-Bash              1 hr 11 mins    ⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.07 %
-JavaScript        55 mins         ⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.07 %
-```
-
-<!--END_SECTION:waka-->
-
 ### 🍕 Stack
 ![CockroachLabs](https://img.shields.io/badge/Cockroach%20Labs-6933FF?style=for-the-badge&logo=Cockroach%20Labs&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
