@@ -1,7 +1,7 @@
-![Header](./github-header-image.png)
+<!--![Header](./github-header-image.png)-->
 
 
-<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=sergivb01&label=Profile%20views&color=0e75b6&style=flat" alt="machine-maker" /> </p> -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sergivb01&label=Profile%20views&color=0e75b6&style=flat" alt="machine-maker" /> </p> 
 
 I'm a Systems Engineer working @Wikiloc and a DevOps/SRE fan, Go and Java developer. Back in the days, I wrote a _lot_ of Minecraft Multiplayer related stuff.
 
