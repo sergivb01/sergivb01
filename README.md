@@ -5,8 +5,6 @@
 
 I'm a Systems Engineer working @Wikiloc and a DevOps/SRE fan, Go and Java developer. Back in the days, I wrote a _lot_ of Minecraft Multiplayer related stuff.
 
-<img src="https://github-readme-stats.vercel.app/api?username=sergivb01&show_icons=true&theme=prussian" alt="Stats" align="right">
-
 ### 🌍 Projects
   - [Messaging](https://github.com/sergivb01/Messaging): Multiplatform messaging system
   - [Toastr](https://github.com/sergivb01/Messaging): Authentication plugin written for VelocityPowered.
