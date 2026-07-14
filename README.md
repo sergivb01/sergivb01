@@ -7,7 +7,7 @@ Systems and SRE engineer at Wikiloc, working on Linux infrastructure, distribute
 
 ### 🌍 Projects
   - [Messaging](https://github.com/sergivb01/Messaging): NATS-based Java messaging abstraction.
-  - [Toastr](https://github.com/sergivb01/Messaging): Authentication plugin written for VelocityPowered.
+  - [Toastr](https://github.com/sergivb01/Toastr): Authentication plugin written for VelocityPowered.
   - [Skeduler](https://github.com/sergivb01/Skeduler): GPU-aware Docker workload scheduler written in Go.
 
 ### 📫 Contact
